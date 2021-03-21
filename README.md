@@ -1,6 +1,6 @@
 # Simple Chatty Bot
 
-Simple terminal chatbot.
+Simple terminal chatbot.  
 _Completed on 14 October 2020_
 
 The project is part of Python Developer track on JetBrains Academy (Hyperskill).  
