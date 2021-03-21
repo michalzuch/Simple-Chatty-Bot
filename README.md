@@ -1,4 +1,13 @@
-# Simple-Chatty-Bot
-Very basic, terminal-based chatbot
+# Simple Chatty Bot
 
-Bot is a project that was a part of JetBrains Academy Python Developer course.
+Simple terminal chatbot.
+_Completed on 14 October 2020_
+
+The project is part of Python Developer track on JetBrains Academy (Hyperskill).  
+Link - [hyperskill/simple-chatty-bot](https://hyperskill.org/projects/97?track=2)
+
+### About
+Here, at the beginning of your programmer’s path, creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey you will also play some word and number games that you are going to implement all on your own. Pack up and let’s hit the road, my friend!
+
+### Learning outcomes
+You’ll get to know the basic syntax of Python and write a simple program using variables, conditions, loops, and functions.
